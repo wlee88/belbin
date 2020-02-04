@@ -1,6 +1,8 @@
-# Belbin
+# Belbin Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+A super simple open source version of the Belbin test.
+
+![alt Noble Plant](https://media-exp1.licdn.com/dms/image/C5603AQEENDboGZGxKQ/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=rO2RREJ38pHbUtOBKXBu3rMei2p6q_bL_rCV8Zb7APA "Noble Plant")
 
 ## Development server
 
@@ -17,11 +19,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
